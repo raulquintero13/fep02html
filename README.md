@@ -2,7 +2,9 @@
 ejercicio  02-HTML
 pagina para hacer pedidos en una pasteleria
 
-url de pagina publicada
-http://yummy.sytes.net
+Pasteleria Yummy (html)
 
-no esta optimizada para dispositivos moviles
+url:
+
+https://raulquintero13.github.io/fep02html/
+
